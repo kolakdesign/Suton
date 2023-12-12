@@ -29,7 +29,7 @@ html, body {
 }
 
 div#logo {position: absolute; right:40px; top:40px;}
-size#logo {width: 10%; height: auto;}
+#logo {width: 10%; height: auto;}
 
 
 
