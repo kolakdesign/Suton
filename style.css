@@ -28,6 +28,9 @@ html, body {
   color: #fff;
 }
 
+div#logo {position: absolute; right:0; down:0}
+
+
 a, a:hover, a:active, a:visited {
   text-decoration: none;
   color: inherit;
