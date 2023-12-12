@@ -28,10 +28,16 @@ html, body {
   color: #fff;
 }
 
-#logo {position: relative; right: 0%; bottom: 0%; width: 10%; height: auto;}
 
+#logo {
+  display: block;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 10%px;
+  height: auto;
 
-
+}
 
 
 
