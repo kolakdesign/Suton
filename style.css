@@ -28,8 +28,7 @@ html, body {
   color: #fff;
 }
 
-div#logo {position: absolute; right:40px; top:40px;}
-#logo {width: 10%; height: auto;}
+div#logo {position: relative; right:40px; top:40px;width: 10%; height: auto;}
 
 
 
