@@ -28,7 +28,7 @@ html, body {
   color: #fff;
 }
 
-div#logo {position: absolute; size: 10%; right:40px; top:40px}
+div#logo {position: absolute; right:40px; top:40px; width: 100px; height: auto;}
 
 
 a, a:hover, a:active, a:visited {
