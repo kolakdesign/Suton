@@ -28,7 +28,7 @@ html, body {
   color: #fff;
 }
 
-div#logo {position: relative; right: -90%; bottom: -90%; }
+#logo {position: absolute; right: 0%; bottom: 0%; width: 10%; height: auto;}
 
 
 
