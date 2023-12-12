@@ -29,10 +29,13 @@ html, body {
 }
 
 #logo img {
-  position: relative;
+  position: absolute;
+  float: left;
   bottom: 0;
-  width: 10%;
+  width: auto;
   height: auto;
+  max-height: 75px;
+  max-width: auto;
  
 }
 
