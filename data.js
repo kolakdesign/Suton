@@ -24,66 +24,28 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -0.31452390892825655,
-        "pitch": 0.19789962632776437,
+        "yaw": -0.2427391700754704,
+        "pitch": 0.21375828738680092,
         "fov": 1.3545525999327719
       },
       "linkHotspots": [
         {
-          "yaw": 1.1400798376001955,
-          "pitch": 0.15788503257746278,
+          "yaw": 1.1026756493697825,
+          "pitch": 0.11446346998144108,
           "rotation": 0,
-          "target": "2-dnevni-boravak"
+          "target": "1-dnevni-boravak"
         },
         {
-          "yaw": 2.944027960885542,
-          "pitch": 0.18375353799317296,
+          "yaw": 2.9534514454386525,
+          "pitch": 0.15235999911186582,
           "rotation": 0,
-          "target": "1-kuhinja"
+          "target": "2-kuhinja"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "1-kuhinja",
-      "name": "Kuhinja",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 2048,
-      "initialViewParameters": {
-        "yaw": 0,
-        "pitch": 0,
-        "fov": 1.0257387182406237
-      },
-      "linkHotspots": [
-        {
-          "yaw": 0.06484063678881569,
-          "pitch": 0.12612778159184046,
-          "rotation": 0,
-          "target": "0-blagovaonica"
-        }
-      ],
-      "infoHotspots": []
-    },
-    {
-      "id": "2-dnevni-boravak",
+      "id": "1-dnevni-boravak",
       "name": "Dnevni boravak",
       "levels": [
         {
@@ -106,14 +68,52 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -0.29882278180298094,
-        "pitch": 0.13461856585507093,
-        "fov": 0.8494220755906051
+        "yaw": -1.3786462123409962,
+        "pitch": 0.16401648586669282,
+        "fov": 1.3545525999327719
       },
       "linkHotspots": [
         {
-          "yaw": 0.05934315848050353,
-          "pitch": 0.08521154722748037,
+          "yaw": 0.03533328323180385,
+          "pitch": 0.07639054678202406,
+          "rotation": 0,
+          "target": "0-blagovaonica"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "2-kuhinja",
+      "name": "Kuhinja",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "yaw": 0.004115623355176012,
+        "pitch": 0.027973504352811318,
+        "fov": 1.3545525999327719
+      },
+      "linkHotspots": [
+        {
+          "yaw": 0.07195616431882534,
+          "pitch": 0.11584978257795697,
           "rotation": 0,
           "target": "0-blagovaonica"
         }
@@ -121,11 +121,11 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "Pano_Proba",
+  "name": "Virtualna šetnja",
   "settings": {
-    "mouseViewMode": "drag",
+    "mouseViewMode": "qtvr",
     "autorotateEnabled": true,
-    "fullscreenButton": false,
+    "fullscreenButton": true,
     "viewControlButtons": false
   }
 };
