@@ -123,7 +123,7 @@ var APP_DATA = {
   ],
   "name": "Virtualna šetnja",
   "settings": {
-    "mouseViewMode": "drag",
+    "mouseViewMode": "qtvr",
     "autorotateEnabled": true,
     "fullscreenButton": true,
     "viewControlButtons": false
