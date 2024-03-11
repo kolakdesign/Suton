@@ -62,10 +62,11 @@
     height: 100%;
 }
 
+/* PROMJENA VELIČINE TOČKICA */
 .marker-wrapper{
     position: absolute;
-    height: 3%;
-    width: 3%;
+    height: 6%;
+    width: 6%;
     display: flex;
     justify-content: center;
     align-items: center;

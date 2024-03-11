@@ -1,4 +1,5 @@
 var APP_DATA = {
+  /* PROMJENA POLOŽAJA TOČKICA XY, MAP CONTAINER 1 ILI 2 POZIVA NA SLIKU MAPE*/
   "scenes": [
     {
       "id": "0-blagovaonica",
