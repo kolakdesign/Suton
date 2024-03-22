@@ -83,7 +83,7 @@ body.multiple-scenes.mobile #titleBar {
     background-color: rgba(45,181,66,0.8);*/
     color: #555555;
     background-color: rgb(243,239,223);
-    background-color: rgba(243,239,223,0.8);
+    background-color: rgba(81, 79, 73, 0.8);
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
